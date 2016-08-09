@@ -17,7 +17,7 @@ npm install color-names
 ## Usage
 
 ```javascript
-var names = require('starwars-names');
+var names = require('mrkd-color-names');
 var allNames = names.all;
 var randomName = names.random();
 var threeRandomNames = names.random(3);

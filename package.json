@@ -1,6 +1,6 @@
 {
-  "name": "color-names",
-  "version": "0.0.0-semantically-released",
+  "name": "mrkd-color-names",
+  "version": "0.0.1-semantically-released",
   "description": "Get random color name",
   "main": "dist/index.js",
   "scripts": {
